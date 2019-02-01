@@ -1,0 +1,23 @@
+
+.cont2
+{
+	background-color: #F5F8F9;
+	height: auto;
+	
+}
+
+.con-main
+{
+	margin-top: 100px!important;
+	height: auto;
+	margin: 0 auto;
+	/*background-color:#EEF2F7;*/
+}
+
+.frm
+{
+	padding-top: 25px;
+}
+label.lb_blnce{margin-top: 45px;}
+
+label.lb_flo{margin-top: 12px;}
